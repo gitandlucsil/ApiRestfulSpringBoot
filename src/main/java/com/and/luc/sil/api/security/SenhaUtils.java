@@ -1,4 +1,4 @@
-package com.and.luc.sil.security;
+package com.and.luc.sil.api.security;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
